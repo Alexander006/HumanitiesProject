@@ -4,11 +4,30 @@ _Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault_
 
 ## Basic Web Development Instructions 
 
-1. Clone your repo to an empty directory on your local machine
+1. Clone this repo to an empty directory on your local machine
 2. Open Visual Studio Code
 3. Click on File/Open Folder
 4. Open the directory/folder where your cloned the repo
 5. Once open, you now have access to the code
+
+## Cloning Instructions
+1. Click on the code button
+2. Copy the git hub link
+3. Create an empty directory on any location that is convenient for you
+4. Open your terminal (CMD, Powershell, Bash (on MacOs))
+5. Navigate to your directory by typing `cd (directory path)`:
+
+   ### To navigate to a child directory
+   `C:\Users\jac> cd downloads`
+   `C:\Users\jac\Downloads> `
+
+   ### To navigate to a parent directory
+   `C:\Users\jac\Downloads> cd ..`
+   `C:\Users\jac`   
+   
+7. Type `git clone -https://github.com/Alexander006/HumanitiesProject.git`
+8. Now you're all set
+   
 
 
 ## Git Pull, Commit and Push
