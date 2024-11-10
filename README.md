@@ -1,4 +1,4 @@
-### Humanities Project Website
+# Humanities Project Website
 Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault
 
 ## Basic Web Development Instructions 
@@ -18,7 +18,7 @@ you must do the following.
 2. Provide a commit message indicating a very brief summary of what you implemented.
 3. Click "Commit" and Push your current version to the repo and your code is there.
 
-# Notes
+### Notes
 - Commit good versions as often as possible so that if later you need to go back to what you did, you can refer to a previous commit you made.
 - If ever you chose to work on another PC, make sure to Git Pull from the repo so that you have all the code you need.
 
