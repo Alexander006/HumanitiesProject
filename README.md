@@ -1,5 +1,6 @@
 # Humanities Project Website
-Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault
+_Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault_
+
 
 ## Basic Web Development Instructions 
 
@@ -25,7 +26,7 @@ you must do the following.
 
 
 ## Git Branch
-Since we're working on teams, it's not ideal to wait for someone to push the current code version to master branch before you can push you version or
+Since we're working on teams, it's not ideal to wait for someone to push their current version to master branch before you can push yours or
 end up constantly pulling from master per recent commit to have the recent changes (which can lead to major conflicts). Git branch alleviates this issue and 
 that's what we will be using.
 
