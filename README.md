@@ -17,13 +17,15 @@ _Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault_
 4. Open your terminal (CMD, Powershell, Bash (on MacOs))
 5. Navigate to your directory by typing `cd (directory path)`:
 
+
    ### To navigate to a child directory
    `C:\Users\jac> cd downloads`
    `C:\Users\jac\Downloads> `
 
    ### To navigate to a parent directory
    `C:\Users\jac\Downloads> cd ..`
-   `C:\Users\jac`   
+   `C:\Users\jac>`   
+
    
 7. Type `git clone -https://github.com/Alexander006/HumanitiesProject.git`
 8. Now you're all set
