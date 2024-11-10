@@ -62,7 +62,7 @@ that's what we will be using.
 ## Git Merge
 This is something we will be doing once it's time to integrate our versions to main. This has be done together (in person on call) as we don't want
 to end up losing any components of the website that plays an important role in displaying what needs to be displayed, business logic etc.... 
-The steps for making a pull request will be explained when the day comes.
+More details to follow...
 
 
 
