@@ -64,6 +64,7 @@ This is something we will be doing once it's time to integrate our versions to m
 to end up losing any components of the website that plays an important role in displaying what needs to be displayed, business logic etc.... 
 More details to follow...
 
-
+## Merge Conflicts ⚠️⚠️⚠️
+If you run into any merge conflicts, please advise me as soon as possible.
 
    
