@@ -12,8 +12,30 @@
     </nav>
 
 </head>    
+
+
     <!-- This wires up front end with backend-->
     <body>
-        <script src="../javascript/MainMenuBackEnd.js"></script>
+        <script type="module">            
+            import {MainMenuBackEnd} from "../javascript/MainMenuBackEnd.js";
+
+            const backend = new MainMenuBackEnd();
+
+            // Assume readParagraphFile() returns a Promise or the result directly
+            async function displayFileContent() {
+                try {
+                    const content = await backend.readParagraphFile(); // Call the method
+                    document.getElementById("fileOutput").textContent = content; // Set the content to <p>
+                } catch (error) {
+                    document.getElementById("fileOutput").textContent = "Error loading content.";
+                    console.error(error);
+                }
+            }
+    
+            displayFileContent(); // Invoke the function
+        </script>
+
+        <p id="fileOutput">Loading...</p>   
+
     </body>
 </html>
