@@ -6,7 +6,7 @@
 
     <!--This allows you to navigate from where you are (as shown
     on the current page you're in)-->
-    <nav>        
+    <nav>           
         <a href="../html/AboutUs.html">About Us</a> |
         <a href="../html/HaitiNews.html">Haiti News</a> |        
     </nav>
@@ -16,26 +16,15 @@
 
     <!-- This wires up front end with backend-->
     <body>
-        <script type="module">            
-            import {MainMenuBackEnd} from "../javascript/MainMenuBackEnd.js";
 
-            const backend = new MainMenuBackEnd();
-
-            // Assume readParagraphFile() returns a Promise or the result directly
-            async function displayFileContent() {
-                try {
-                    const content = await backend.readParagraphFile(); // Call the method
-                    document.getElementById("fileOutput").textContent = content; // Set the content to <p>
-                } catch (error) {
-                    document.getElementById("fileOutput").textContent = "Error loading content.";
-                    console.error(error);
-                }
-            }
-    
-            displayFileContent(); // Invoke the function
+        <!--Below is JavaScript-->
+        <script type="module">     
+            
+            document.getElementById("fileOutput").textContent = doWork()           
+            
         </script>
 
-        <p id="fileOutput">Loading...</p>   
+        <p id="fileOutput"></p>   
 
     </body>
 </html>

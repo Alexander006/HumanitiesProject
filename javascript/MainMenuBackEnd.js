@@ -1,6 +1,7 @@
 
 
-export default class MainMenuBackEnd
+
+export class MainMenuBackEnd
 {    
 
     filePath = null;  

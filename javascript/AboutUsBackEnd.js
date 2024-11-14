@@ -1,4 +1,4 @@
-
+import { MainMenuBackEnd } from "./MainMenuBackEnd";
 
 export default class AboutUsBackend{
     
