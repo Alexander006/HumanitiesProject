@@ -1,14 +1,11 @@
-import { MainMenuBackEnd } from "./MainMenuBackEnd";
 
-export default class AboutUsBackend{
+// export class AboutUsBackend{
     
-}
+//     RenderAboutUs(){
 
-
-function RenderAboutUs(){
-
-}
-
-function Navigate(){
+//     }
     
-}
+//     Navigate(){
+        
+//     }
+// }
