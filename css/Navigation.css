@@ -1,4 +1,14 @@
-.NavigationTab{
-    height: auto;
-    fill: blue;    
+.NavigationTab {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.NavigationTab a {
+    color: #0066cc;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.NavigationTab a:hover {
+    color: #ff6600;
 }

@@ -1,9 +1,8 @@
 
-export default class HaitiNewsBackEnd{
-    
-}
-
-
-function RenderArticle(){
+export  class HaitiNewsBackEnd{
+    RenderArticle(){
         
+    }
 }
+
+
