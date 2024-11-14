@@ -1,9 +1,11 @@
 
-
-function RenderAboutUs(){
-
-}
-
-function Navigate(){
+// export class AboutUsBackend{
     
-}
+//     RenderAboutUs(){
+
+//     }
+    
+//     Navigate(){
+        
+//     }
+// }

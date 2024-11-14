@@ -1,4 +1,8 @@
 
-function RenderArticle(){
+export  class HaitiNewsBackEnd{
+    RenderArticle(){
         
+    }
 }
+
+

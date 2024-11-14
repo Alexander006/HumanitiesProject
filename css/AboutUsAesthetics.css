@@ -1,0 +1,19 @@
+.title{
+display: block;
+text-align: center;
+font-size: 75px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: lighter;
+}
+
+.page{
+    padding-left: 50px;
+}
+
+.heading_1 {
+    text-align: left;    
+}
+
+.paragraphs{   
+    padding-right: 800px;   
+}
