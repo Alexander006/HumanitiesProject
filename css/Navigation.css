@@ -1,11 +1,13 @@
 .NavigationTab {
     background-color: #f0f0f0;
     color: #333;
+    font-size: 50px;
+    text-align: center;
 }
 
 .NavigationTab a {
     color: #0066cc;
-    text-decoration: none;
+    text-decoration: none;   
     padding: 10px;
 }
 
