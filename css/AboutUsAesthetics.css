@@ -4,16 +4,22 @@ text-align: center;
 font-size: 75px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-weight: lighter;
+color: darkgray;
 }
 
 .page{
     padding-left: 50px;
+    padding-right: 50px;
+    background-color: darkblue;
 }
 
 .heading_1 {
-    text-align: left;    
+    text-align: left;
+    color:wheat;    
 }
 
 .paragraphs{   
     padding-right: 800px;   
+    color:white; 
 }
+
