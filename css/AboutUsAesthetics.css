@@ -15,15 +15,22 @@ color: darkgray;
 
 .heading_1 {
     text-align: left;
-    color:wheat;    
+    color:wheat; 
+    font-size: 30px;   
 }
 
 .paragraphs{   
-    padding-right: 800px;   
+    padding-right: 50px;   
     color:white; 
+    font-size: large;
 }
 
-.image{
-    padding-left: 400px;
-   
+.flex-container {
+    display: flex;
+    align-items: flex-start; /* Aligns content at the top */
+}
+
+.image {
+    margin-left: 0px; /* Space between image and text */
+    
 }
