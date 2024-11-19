@@ -14,13 +14,14 @@ color: darkgray;
 }
 
 .heading_1 {
-    text-align: left;
+    text-align: center;
     color:wheat; 
     font-size: 30px;   
 }
 
 .paragraphs{   
     padding-right: 50px;   
+    padding-left: 50px;
     color:white; 
     font-size: large;
 }
@@ -28,7 +29,14 @@ color: darkgray;
 .flex-container {
     display: flex;
     align-items: flex-start; /* Aligns content at the top */
+    background-color: brown;   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+
 
 .image {
     margin-left: 0px; /* Space between image and text */
