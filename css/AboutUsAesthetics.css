@@ -30,6 +30,7 @@
 .flex-container {
     display: flex;
     align-items: flex-start; /* Aligns content at the top */
+    flex-direction: column;
     background-color: brown;   
     margin-top: 50px;
     margin-bottom: 50px;
