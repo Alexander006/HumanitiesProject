@@ -40,7 +40,7 @@
 
 .images{
     height: auto;
-    width: 800px;
+    width: 700px;
     float: right;   
 }
 
@@ -48,4 +48,6 @@
     color:black; 
     font-size: large;
     flex-wrap: wrap;
+    padding-right: 35px ;
+    line-height: 35px;
 }
