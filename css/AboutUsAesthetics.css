@@ -1,19 +1,60 @@
-.title{
-display: block;
-text-align: center;
-font-size: 75px;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-weight: lighter;
+.page{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: darkblue;
 }
 
-.page{
+.pageTitle{
+    display: block;
+    text-align: center;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: darkgray;
+    }
+
+.heading_1 {
+    text-align: center;
+    color:wheat; 
+    font-size: 30px;   
+}
+
+/*First section*/
+.paragraphs{   
+    padding-right: 50px;   
+    padding-left: 50px;
+    color:white; 
+    font-size: large;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start; /* Aligns content at the top */
+    flex-direction: column;
+    background-color: brown;   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    margin-left: 0px; /* Space between image and text */
+    
+}
+
+/*Second section*/
+.flex-container2{
+    background-color: gray !important;
     padding-left: 50px;
 }
 
-.heading_1 {
-    text-align: left;    
+
+.contactText{
+    text-underline-position: below;
+    font-size: larger;
+    text-decoration: underline;
 }
 
-.paragraphs{   
-    padding-right: 800px;   
-}
+
+

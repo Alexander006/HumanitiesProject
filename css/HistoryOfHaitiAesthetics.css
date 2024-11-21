@@ -1,0 +1,51 @@
+.page{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: wheat;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: whitesmoke;   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 125px;
+    margin-right: 125px;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    border-style: solid;    
+    border-color: black; 
+}
+
+
+.pageTitle{
+    display: block;
+    text-align: center;
+    font-size: 75px;
+    font-weight: lighter;
+    color: black;
+    }
+
+
+.heading_1 {
+    text-align: center;
+    color:black; 
+    font-size: 30px;   
+}
+
+
+.images{
+    height: auto;
+    width: 800px;
+    float: right;   
+}
+
+.paragraphs{
+    color:black; 
+    font-size: large;
+    flex-wrap: wrap;
+}
