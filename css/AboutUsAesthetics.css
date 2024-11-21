@@ -23,6 +23,7 @@
 .paragraphs{   
     padding-right: 50px;   
     padding-left: 50px;
+    line-height: 35px;
     color:white; 
     font-size: large;
 }
@@ -36,6 +37,8 @@
     margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
+    border-style: solid;    
+    border-color: gold; 
 }
 
 .image {
