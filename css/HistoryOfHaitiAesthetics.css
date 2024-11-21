@@ -1,0 +1,40 @@
+.page{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: wheat;
+}
+
+
+.flex-container {
+    display: flex;
+    align-items: flex-start; /* Aligns content at the top */
+    background-color: whitesmoke;   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 125px;
+    margin-right: 125px;
+    border-style: solid;    
+    border-color: black; 
+}
+
+
+.pageTitle{
+    display: block;
+    text-align: center;
+    font-size: 75px;
+    font-weight: lighter;
+    color: black;
+    }
+
+
+.heading_1 {
+    text-align: center;
+    color:black; 
+    font-size: 30px;   
+}
+
+.paragraphs{
+    color:black; 
+    font-size: large;
+    padding: 15px;
+}

@@ -1,17 +1,17 @@
-.title{
-display: block;
-text-align: center;
-font-size: 75px;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-weight: lighter;
-color: darkgray;
-}
-
 .page{
     padding-left: 50px;
     padding-right: 50px;
     background-color: darkblue;
 }
+
+.pageTitle{
+    display: block;
+    text-align: center;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: darkgray;
+    }
 
 .heading_1 {
     text-align: center;
