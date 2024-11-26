@@ -1,15 +1,14 @@
 .page{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
     background-color: wheat;
 }
-
 
 .flex-container {
     display: flex;
     flex-wrap: wrap;
     background-color: whitesmoke;   
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 50px;
     margin-left: 125px;
     margin-right: 125px;
