@@ -36,6 +36,10 @@
     font-size: 30px;   
 }
 
+.subContainer{
+    display: flex;
+    flex-wrap: wrap;   
+}
 
 .images{
     height: auto;
@@ -49,8 +53,9 @@
 
 
 .images2{    
-    height: 500px;
-    justify-content: center;
+    height: auto;
+    width: 350px;
+    float:left; 
 }
 
 .paragraphs{
