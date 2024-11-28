@@ -57,6 +57,7 @@
     height: auto;
     width: 275px;
     float:left; 
+    border-radius: 10%;    
 }
 
 .subContainerParagraph{
@@ -76,6 +77,7 @@
     height: auto;
     width: 500px;
     float: right;   
+    border-radius: 10%; 
 }
 
 
