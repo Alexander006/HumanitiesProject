@@ -38,8 +38,39 @@
 
 .subContainer{
     display: flex;
-    flex-wrap: wrap;   
+    flex-wrap: wrap;  
+    
+    margin-bottom: 30px;
+    /* background-color: grey; */
 }
+
+
+.person {
+    color:black; 
+    /* background-color: green;     */
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-left: 25px;       
+}
+
+.images2{    
+    height: auto;
+    width: 275px;
+    float:left; 
+}
+
+.subContainerParagraph{
+    background-color: rgb(228, 209, 209);
+    font-size: 25px;
+    flex-wrap: wrap;
+    margin-left: 295px;
+    margin-right: 35px;
+    padding:5px;
+    line-height: 45px;
+    text-align: center;
+    border-radius: 10%;
+}
+
 
 .images{
     height: auto;
@@ -47,16 +78,6 @@
     float: right;   
 }
 
-.centerImageContainer{
-    margin-top: 50px;    
-}
-
-
-.images2{    
-    height: auto;
-    width: 350px;
-    float:left; 
-}
 
 .paragraphs{
     color:black; 
