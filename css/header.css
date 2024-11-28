@@ -3,4 +3,5 @@
     max-height: 275px;     
     object-fit: contain;   
     margin: 0px;
+    background-color: black !important;
 }
