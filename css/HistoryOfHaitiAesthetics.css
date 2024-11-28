@@ -39,8 +39,18 @@
 
 .images{
     height: auto;
-    width: 700px;
+    width: 500px;
     float: right;   
+}
+
+.centerImageContainer{
+    margin-top: 50px;    
+}
+
+
+.images2{    
+    height: 500px;
+    justify-content: center;
 }
 
 .paragraphs{
