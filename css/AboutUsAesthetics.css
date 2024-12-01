@@ -15,16 +15,16 @@
 .heading_1 {
     text-align: center;
     color:wheat; 
-    font-size: 30px;   
+    font-size: 70px;   
 }
 
 /*First section*/
 .paragraphs{   
     padding-right: 50px;   
     padding-left: 50px;
-    line-height: 35px;
+    line-height: 55px;
     color:white; 
-    font-size: large;
+    font-size: 45px;
 }
 
 .flex-container {
@@ -37,30 +37,41 @@
     margin-left: auto;
     margin-right: auto;
     border-style: solid;    
-    border-color: black;     
+    border-color: white;   
+    
 }
 
 .image {
-    margin-left: 0px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
     margin-top: 20px;
     margin-bottom: 30px;
-    padding-right: 85px;
+    padding-bottom: 40px;    
     text-decoration: underline;
-    border-radius: 50%;
-    border-color: blue;    
-    float: inline-end;
+    border-radius: 20%;    
+    float: inline-end;      
 }
 
 /*Second section*/
 .flex-container2{
-    background-color: gray !important;
-    padding-left: 50px;
+    background-color: lightyellow !important;
+    border-color: black !important;
+    border-style: solid;
+    padding-left: 50px;   
 }
 
 
+
 .contactText{
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contactInfo{
     text-underline-position: below;
-    font-size: larger;
+    font-size: 30px;
     text-decoration: underline;
 }
 
