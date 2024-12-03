@@ -1,15 +1,14 @@
 .page{
-    padding-left: 50px;
-    padding-right: 50px;
+    /* padding-left: 25px;
+    padding-right: 25px; */
     background-color: wheat;
 }
-
 
 .flex-container {
     display: flex;
     flex-wrap: wrap;
     background-color: whitesmoke;   
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 50px;
     margin-left: 125px;
     margin-right: 125px;
@@ -37,15 +36,74 @@
     font-size: 30px;   
 }
 
-
 .images{
     height: auto;
-    width: 800px;
+    width: 500px;
     float: right;   
+    border-radius: 10%; 
+    padding-left: 18px;
 }
+
 
 .paragraphs{
     color:black; 
-    font-size: large;
+    font-size: 28px;
     flex-wrap: wrap;
+    padding-right: 35px ;
+    line-height: 50px;
+}
+
+.subContainer{
+    display: flex;
+    flex-wrap: wrap;  
+    
+    margin-bottom: 30px;
+    /* background-color: grey; */
+}
+
+
+.person {
+    color:black; 
+    /* background-color: green;     */
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-left: 25px;       
+}
+
+.images2{    
+    height: auto;
+    width: 275px;
+    float:left; 
+    border-radius: 10%;    
+}
+
+.subContainerParagraph{
+    background-color: rgb(228, 209, 209);
+    font-size: 25px;
+    flex-wrap: wrap;
+    margin-left: 295px;
+    margin-right: 35px;
+    padding:8px;
+    line-height: 45px;
+    text-align: center;
+    border-radius: 15%;
+}
+
+.subContainer2 {
+    border-radius: 5%;
+    background-color: rgb(226, 226, 226);  
+    margin-right: 450px;
+    padding-left: 25px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.subContainer3{
+    border-radius: 5%;
+    background-color: rgb(226, 226, 226);  
+    margin-right: 100px;
+    margin-top: 90px;
+    padding-left: 25px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
