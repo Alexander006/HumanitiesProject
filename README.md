@@ -2,6 +2,9 @@
 _Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault_
 
 
+
+## _For the Web Developement Team (Group A)_
+
 ## Basic Web Development Instructions 📒
 
 1. Clone this repo to an empty directory on your local machine
@@ -66,5 +69,14 @@ More details to follow...
 
 ## Merge Conflicts ⚠️⚠️⚠️
 If you run into any merge conflicts, please advise me as soon as possible.
+
+## _For Website Users_
+
+## To run the website
+
+1. Download the file as a zip
+2. Extract the contents of the file
+3. Navigate to the "html" directory
+4. Click "MainMenu.html"
 
    
