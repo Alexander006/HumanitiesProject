@@ -1,6 +1,14 @@
 # Humanities Project Website💻
 _Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault_
 
+## _For Our Website Users_
+
+1. Download the file as a zip
+2. Extract the contents of the file
+3. Navigate to the "html" directory
+4. Finally Click "MainMenu.html" and welcome to our website
+  (Please note that this website is not launched throught http(s) or localhost. The
+   website is launched locally.)
 
 
 ## _For the Web Developement Team (Group A)_
@@ -70,13 +78,6 @@ More details to follow...
 ## Merge Conflicts ⚠️⚠️⚠️
 If you run into any merge conflicts, please advise me as soon as possible.
 
-## _For Website Users_
 
-## To run the website
-
-1. Download the file as a zip
-2. Extract the contents of the file
-3. Navigate to the "html" directory
-4. Click "MainMenu.html"
 
    
