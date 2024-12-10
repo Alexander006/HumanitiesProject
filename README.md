@@ -3,7 +3,7 @@ _Created by Alexander Burlec-Plaies, Ethan Johnson, Sebastian Legault_
 
 ## _For Our Website Users_
 
-1. Click "Code <>" and download the file as a zip
+1. Click "<> Code" and download the file as a zip
 2. Extract the contents of the file
 3. Navigate to the "html" directory
 4. Finally Click "MainMenu.html" and welcome to our website
